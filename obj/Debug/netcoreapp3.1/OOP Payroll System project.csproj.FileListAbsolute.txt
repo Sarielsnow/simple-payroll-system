@@ -1,0 +1,27 @@
+C:\Users\dough\Source\Repos\OOP Payroll System project\obj\Debug\netcoreapp3.1\OOP Payroll System project.csprojAssemblyReference.cache
+C:\Users\dough\Source\Repos\OOP Payroll System project\obj\Debug\netcoreapp3.1\OOP Payroll System project.AssemblyInfoInputs.cache
+C:\Users\dough\Source\Repos\OOP Payroll System project\obj\Debug\netcoreapp3.1\OOP Payroll System project.AssemblyInfo.cs
+C:\Users\dough\Source\Repos\OOP Payroll System project\obj\Debug\netcoreapp3.1\OOP Payroll System project.csproj.CoreCompileInputs.cache
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\OOP Payroll System project.exe
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\OOP Payroll System project.deps.json
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\OOP Payroll System project.runtimeconfig.json
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\OOP Payroll System project.runtimeconfig.dev.json
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\OOP Payroll System project.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\OOP Payroll System project.pdb
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\EPPlus.Core.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Pkcs.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.Pkcs.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\obj\Debug\netcoreapp3.1\OOP Payroll System project.csproj.CopyComplete
+C:\Users\dough\Source\Repos\OOP Payroll System project\obj\Debug\netcoreapp3.1\OOP Payroll System project.dll
+C:\Users\dough\Source\Repos\OOP Payroll System project\obj\Debug\netcoreapp3.1\OOP Payroll System project.pdb
+C:\Users\dough\Source\Repos\OOP Payroll System project\obj\Debug\netcoreapp3.1\OOP Payroll System project.genruntimeconfig.cache
